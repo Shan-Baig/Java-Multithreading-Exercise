@@ -1,0 +1,79 @@
+1   // Load 72=H
+72
+9   // Put 2
+2
+1   // Load 105=i
+105
+9   // Put 2
+2
+23   // Call newline
+69
+1   // Load 77=M
+77
+9   // Put 2
+2
+1   // Load 121=y
+121
+9   // Put 2
+2
+23  // Call Space
+74
+1   // Load 73=N
+73
+9   // Put 2
+2
+1   // Load 97=a
+97
+9   // Put 2
+2
+1   // Load 109=m
+109
+9   // Put 2
+2
+1   // Load 101=e
+101
+9   // Put 2
+2
+23  // Call Space
+74
+1   // Load 73=I
+73
+9   // Put 2
+2
+1   // Load 115=s
+115
+9   // Put 2
+2
+23  // Call Space
+74
+1   // Load 83=S
+83
+9   // Put 2
+2
+1   // Load 104=h
+104
+9   // Put 2
+2
+1   // Load 97=a
+97
+9   // Put 2
+2
+1   // Load 110=n
+110
+9   // Put 2
+2
+1   // Load 33=!
+33
+9   // Put 2
+2
+50  // End 
+1   // Load 10=newline
+10 
+9   // Put 2
+2
+24  // Return
+1  // load 32=space
+32
+9 //put 2
+2
+24 //return
